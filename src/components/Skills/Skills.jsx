@@ -42,11 +42,11 @@ export default function Skills() {
                 Interested in reactive programming , exploring with Angular and AWS respectively.
             </p>
                 <Progress done="90" name="JAVA" />
-                <Progress done="80" name="SPRING BOOT"/>
-                <Progress done="75" name="JAVA SCRIPT" />
-                <Progress done="80" name="MY SQL" />
-                <Progress done="85" name="SELINIUM" />
-                <Progress done="65" name="C++" />
+                <Progress done="85" name="SPRING BOOT"/>
+                <Progress done="85" name="MICRO SERVICES" />
+                <Progress done="90" name="MY SQL" />
+                <Progress done="85" name="REST APIS" />
+                <Progress done="70" name="JAVA SCRIPT" />
                 
             </div>
         </div>
